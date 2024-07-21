@@ -6,8 +6,8 @@ const Week1And2 = () => (
     <div className="lesson-content">
       <h4>References:</h4>
       <ul>
-        <li><a href="https://w3schools.com">w3Schools</a></li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Mozilla Docs</a></li>
+        <li><a href="https://w3schools.com" target='_blank'>w3Schools</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target='_blank'>Mozilla Docs</a></li>
       </ul>
       <h3>Lesson Content</h3>
       <ul>
