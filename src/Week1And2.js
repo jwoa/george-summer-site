@@ -4,6 +4,11 @@ import HTMLEditor from './HTMLEditor';
 const Week1And2 = () => (
   <div>
     <div className="lesson-content">
+      <h4>References:</h4>
+      <ul>
+        <li><a href="https://w3schools.com">w3Schools</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Mozilla Docs</a></li>
+      </ul>
       <h3>Lesson Content</h3>
       <ul>
         <li>What is HTML?</li>
