@@ -20,12 +20,12 @@ const App = () => {
   return (
     <div>
       <header>
-        <h1>Web Development for Georgie</h1>
+        <h1>Web Development for George</h1>
         <nav>
           <ul>
-            <li><button onClick={() => setActiveWeek('week1')}>Week 1</button></li>
-            {/* <li><button onClick={() => setActiveWeek('week3')}>Week 3-4</button></li>
-            <li><button onClick={() => setActiveWeek('week5')}>Week 5-6</button></li>
+            <li><button onClick={() => setActiveWeek('week1')}>Week 1-2</button></li>
+            <li><button onClick={() => setActiveWeek('week3')}>Week 3-4</button></li>
+            {/* <li><button onClick={() => setActiveWeek('week5')}>Week 5-6</button></li>
             <li><button onClick={() => setActiveWeek('week7')}>Week 7-8</button></li> */}
           </ul>
         </nav>
@@ -36,7 +36,7 @@ const App = () => {
       </main>
 
       <footer>
-        <p>&copy; 2024 Web Development for Beginners</p>
+        <p>&copy; 2024 Web Development for George by Uncle Jason</p>
       </footer>
     </div>
   );
